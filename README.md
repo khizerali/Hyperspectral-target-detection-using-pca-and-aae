@@ -10,7 +10,7 @@ The code for classical algorithms for HTD are utilized from :https://github.com/
 DM-BDL code:https://github.com/FDU-ctk/HSI-detection
 
 
-
+## Dataset links:
 The datasets used in this work can be downloaded from following links:\
 https://pern-my.sharepoint.com/:u:/g/personal/khizer15_ist_edu_pk/EYHdTgLnUUFHokUpThF5MAUBcWUa8M3ObBGGyqhyyqu3sQ?e=11m7dQ
 https://pern-my.sharepoint.com/:u:/g/personal/khizer15_ist_edu_pk/ERVbmWrBqwdFjvp5EKJyubEBYrpT_K1NRTN3WGfEIduXaw?e=Hu4G6S
