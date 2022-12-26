@@ -3,13 +3,16 @@ close all
 %% Load the hyperspectral image and ground truth
 addpath('../functions')
 addpath('../data')
+% for loading segundo dataset
 % load segundo_pca_20bands
 % load ../coarse/segundo_pca_20bands/result_coarse
 % load ../result/segundo_pca_20bands/reconstruct_result_huber_th7
+
+%# for loading indian pines dataset
 load indian_pines_c16_pca1
 load ../coarse/\indian_pines_pca/result_coarse
 load ../result/\indian_pines_pca/reconstruct_result
- map=(groundtruth);
+% map=(groundtruth);
 %map=transpose(map);
 %load San
 % data=transpose(X);
