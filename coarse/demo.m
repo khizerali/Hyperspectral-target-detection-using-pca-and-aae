@@ -47,8 +47,8 @@ background = background(rowrank, :);
 m = ceil(ratio*iMax);
 train_data = background(1:m,:);
 val_data = background(m+1:iMax,:);
-save ('.\segundo_pca\train_data','train_data');
-save ('.\segundo_pca\val_data','val_data');
+save ('.\segundo_pca\train_data','train_data'); %enter path for specific dataset
+save ('.\segundo_pca\val_data','val_data');     %enter path for specific dataset
 %% Figures
 figure,
 subplot(1, 3, 1); imagesc(map), axis image, axis off; title('ground truth')
@@ -61,9 +61,7 @@ save ('.\segundo_pca\result_coarse','result_coarse');
 figure(3)
 imagesc(result_coarse_cem);
 
-%% Save data
-%save ('.\segundo\result_coarse','result_coarse_cem');
-%save ('.\ace\result_binary','result_binary');
+
 
 
 
