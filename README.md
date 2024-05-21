@@ -1,4 +1,4 @@
-This project provides an implementation for "Hyperspectral target detection using PCA and AAE". 
+This project provides an implementation for "Hyperspectral target detection using Self-supervised Background Learning". 
 # Instructions for Proposed Algorithm:
 1. Convert dataset into low dimensions using pca if not available. In order to convert dataset, use PCA_Dataset.py file.
 2. Run demo.m in coarse folder to get background training samples. Change the dataset path for the available dataset in this code.
