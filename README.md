@@ -9,6 +9,21 @@ This project provides an implementation for "Hyperspectral target detection usin
 The code for classical algorithms for HTD are utilized from :https://github.com/Rui-ZHAO-ipc/E_CEM-for-Hyperspectral-Target-Detection.git
 DM-BDL code:https://github.com/FDU-ctk/HSI-detection
 
+# Please Cite our paper:
+
+Ali, Muhammad Khizer, et al. "Hyperspectral target detection using self-supervised background learning." Advances in Space Research 74.2 (2024): 628-646.
+
+@article{ali2024hyperspectral,
+  title={Hyperspectral target detection using self-supervised background learning},
+  author={Ali, Muhammad Khizer and Amin, Benish and Maud, Abdur Rahman and Bhatti, Farrukh Aziz and Sukhia, Komal Nain and Khurshid, Khurram},
+  journal={Advances in Space Research},
+  volume={74},
+  number={2},
+  pages={628--646},
+  year={2024},
+  publisher={Elsevier}
+}
+
 
 ## Dataset links:
 The datasets used in this work can be downloaded from following links:\
@@ -16,3 +31,4 @@ https://pern-my.sharepoint.com/:u:/g/personal/khizer15_ist_edu_pk/EYHdTgLnUUFHok
 https://pern-my.sharepoint.com/:u:/g/personal/khizer15_ist_edu_pk/ERVbmWrBqwdFjvp5EKJyubEBYrpT_K1NRTN3WGfEIduXaw?e=Hu4G6S
 https://pern-my.sharepoint.com/:u:/g/personal/khizer15_ist_edu_pk/EerQk6b6lhtEjggwjwQXWbEBqg2InTsqCzNUCEjaI-D-mA?e=ZyRjIm
 https://pern-my.sharepoint.com/:u:/g/personal/khizer15_ist_edu_pk/EeUZYrRv5FpIlSvT29_fVsMBmoQ5qj6S1JOFxW3ZblW1vA?e=Vfk9nH
+
